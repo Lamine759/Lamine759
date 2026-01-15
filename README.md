@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 
 
 <!---
 Lamine759/Lamine759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
